@@ -23,6 +23,9 @@ This repository provides an overview of various security tools categorized into 
 ### Recon-NG
 - An advanced open-source tool for web reconnaissance that gathers information from various sources.
   - Basic Syntax: `recon-ng`
+ 
+### Enumerating-ICS-SCADA-Devices
+A compilation of scripts and scans for discovering and enumerating industrial control and SCADA devices. Utilizing open-source tools, I have compiled scans and scripts for targeting Operational Technology (OT) devices and hosts! 
 
 ## Initial Access
 
