@@ -16,6 +16,9 @@ https://github.com/laramies/theHarvester
 ## Recon-NG
 https://github.com/lanmaster53/recon-ng
 
+## Enumerating-ICS-SCADA-Devices
+https://github.com/RoseSecurity/Enumerating-ICS-SCADA-Devices
+
               ▒▒▒▒                          
           ▒▒▒▒▒▒▒▒▒▒▒▒                      
         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒                    
