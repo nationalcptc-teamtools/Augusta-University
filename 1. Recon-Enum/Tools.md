@@ -19,6 +19,9 @@ https://github.com/lanmaster53/recon-ng
 ## Enumerating-ICS-SCADA-Devices
 https://github.com/RoseSecurity/Enumerating-ICS-SCADA-Devices
 
+** BurpSuite
+https://www.kali.org/tools/burpsuite/
+
 ## Modbus enumeration script
 This code is a Lua script for Nmap, a network scanning tool. It enumerates SCADA Modbus slave IDs and collects device information, trying to find legal slave IDs of Modbus devices and retrieve details about the vendor and firmware. The script is an improvement of the Modscan utility written in Python by Mark Bristow, aiming to provide enhanced functionality and information gathering for Modbus devices.
 
