@@ -1,0 +1,13 @@
+https://github.com/martinoj2009/ICMPExfil
+https://github.com/leonjza/wordpress-shell
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources Reverse%20Shell%20Cheatsheet.md
+https://github.com/zzztor/intelligence-wordlist-generator
+https://github.com/1N3/Sn1per
+https://github.com/1N3/PrivEsc
+https://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
+https://sushant747.gitbooks.io/total-oscp-guide/sql-injections.html
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-5-creating-custom-wordlist-with-cewl-0158855/
+https://highon.coffee/blog/reverse-shell-cheat-sheet/
+https://www.wappalyzer.com/
+https://github.com/kennyn510/wpa2-wordlists
