@@ -1,5 +1,5 @@
 <?php
-    define("URL","http://127.0.0.1/index.html");
+    define("URL","http://127.0.0.1/index.html"); //change to website that is being attacked
     define("AUTH_USER","admin");
     define("TIMEOUT",30);
     define("LOWERCASE",TRUE);
