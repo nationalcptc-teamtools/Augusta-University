@@ -1,0 +1,36 @@
+Situation 1: LLM
+In the case that we encounter a Large Language Model on the DMZ two members of the CPTC team will be the two Prompt Engineers. They will figure out a way to manipulate the LLM to potentially give us information that can help get access to a host outside the DMZ. 
+
+Resources:
+https://portswigger.net/web-security/llm-attacks
+https://snyk.io/blog/addressing-risks-in-the-owasp-top-10-for-llms/
+ 
+
+Situation 2: Phishing Campaign 
+In the case where we can set up a phishing campaign to do a spear phishing attack on the client the Head of Phishing and Emails will set up this campaign. 
+
+Resources:
+https://github.com/trustedsec/social-engineer-toolkit
+https://www.cyberly.org/en/how-do-you-use-set-to-perform-a-spear-phishing-attack/index.html
+ 
+
+Situation 3: Cloud Platform 
+In the event that we find the cloud platform that the client is using for their infrastructure two members will be discovering and exploiting the cloud resources running on the infrastructure.  
+
+Resources:
+https://github.com/sa7mon/S3Scanner
+https://github.com/ine-labs/GCPGoat/tree/main/attack-manuals/module-1
+https://github.com/ine-labs/AzureGoat/tree/master/attack-manuals/module-1
+https://github.com/ine-labs/AWSGoat/tree/master/attack-manuals/module-1
+
+Situation 4: Web App 
+In the situation where we are faced with a web application and need to find a way into the network, team members will find a web vulnerability that we can use to exploit and gain access to the network.
+
+Resources:
+https://owasp.org/www-project-top-ten/
+https://portswigger.net/web-security/all-materials
+https://www.php.net/manual/en/book.mysql.php
+https://cheatsheetseries.owasp.org/
+https://www.w3schools.com/php/default.asp
+
+
