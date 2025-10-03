@@ -12,7 +12,6 @@ GTFObins (Priv Esc) - http://gtfobins.github.io/
 LolDrivers (Priv Esc)- https://www.loldrivers.io/
 Filesec (Desc on File extensions) - https://filesec.io/
 Argfuscator (Command Obfuscater) - https://argfuscator.net/
-WADComs (AD Exploitation) - https://wadcoms.github.io/
 Loobins (Binaries) - https://www.loobins.io/binaries/
 LOLBAS (Binaries) - https://lolbas-project.github.io/
 Hijacklibs (DLL Hijacking) - https://hijacklibs.net/ 
@@ -28,3 +27,13 @@ Windows Privilege Escalation Fundamentals:
 - https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
 - https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+
+AD:
+- https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/index.html
+- https://seriotonctf.github.io/ADCS-Attacks-with-Certipy/index.html
+- https://seriotonctf.github.io/AD-ACLs-Cheatsheet/
+- https://seriotonctf.github.io/Windows-Privesc/
+- https://seriotonctf.github.io/Abusing-Unconstrained-Delegation/
+- https://wadcoms.github.io/
+- https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+
