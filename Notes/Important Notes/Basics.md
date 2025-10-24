@@ -198,7 +198,7 @@ These commands demonstrate forcing specific tools through the configured SOCKS p
 
 1.  **Installation:**
     ```bash
-    sudo pip install sshuttle
+    sudo apt install sshuttle
     ```
 2.  **Route an Entire Subnet through the Pivot Host (using a private key):**
     ```bash
