@@ -15,7 +15,7 @@ This section provides quick links to important documentation, cheatsheets, and r
 - **Hacktricks (Everything):** [https://book.hacktricks.wiki/en/index.html](https://book.hacktricks.wiki/en/index.html)
 - **Filesec (Desc on File extensions):** [https://filesec.io/](https://filesec.io/)
 - **Argfuscator (Command Obfuscater):** [https://argfuscator.net/](https://argfuscator.net/)
-
+- **Powershell Command List:** [https://activedirectorypro.com/powershell-commands/](https://activedirectorypro.com/powershell-commands/)
 ---
 
 ## 📈 Privilege Escalation (Binaries & Living Off the Land)
