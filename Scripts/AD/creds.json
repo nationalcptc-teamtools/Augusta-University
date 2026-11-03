@@ -1,0 +1,18 @@
+[
+  {
+    "domain": "10.129.158.181",
+    "username": "mark.davies",
+    "secret_type": "password",
+    "secret_value": "Checkpoint2024!",
+    "obtained_via": "manually added",
+    "timestamp": "2026-11-02 01:36:06"
+  },
+  {
+    "domain": "10.129.158.181",
+    "username": "alex.turner",
+    "secret_type": "password",
+    "secret_value": "Checkpoint2024!",
+    "obtained_via": "manually added",
+    "timestamp": "2026-11-02 03:02:20"
+  }
+]

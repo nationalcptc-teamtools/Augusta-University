@@ -1,0 +1,7 @@
+# CPTC scope — one target or CIDR per line. '#' starts a comment.
+# The FIRST non-comment, non-blank line is the default target for every script
+# (override for a single run with -t/--target).
+#
+# Edit the line below to your engagement's DC / subnet before you start:
+10.129.159.215	
+# 10.0.0.0/24
