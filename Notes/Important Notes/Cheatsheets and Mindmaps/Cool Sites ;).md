@@ -55,3 +55,6 @@ This section provides quick links to important documentation, cheatsheets, and r
 - [Abusing Unconstrained Delegation](https://seriotonctf.github.io/Abusing-Unconstrained-Delegation/)
 - [WADComs](https://wadcoms.github.io/)
 - [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+
+## 🏭 OT/ICS Resources
+- [SCADA/OT CHeat Sheet - Advanced ICS Hacking Playbook](https://github.com/ridpath/SCADA-OT-CheatSheet-Advanced-ICS-Hacking-Playbook)
